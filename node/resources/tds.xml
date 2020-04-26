@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tds>
+    <database>
+        <db-connection-string>taskdistributionsystem</db-connection-string>
+        <db-user-name>root</db-user-name>
+        <db-user-password>root</db-user-password>
+    </database>
+    <co-ordinator>
+        <co-ordinator-ip>127.0.0.1</co-ordinator-ip>
+        <co-ordinator-port>5000</co-ordinator-port>
+        <co-ordinator-protocol-format>JSON</co-ordinator-protocol-format>
+        <co-ordinator-protocol-version>1.0</co-ordinator-protocol-version>
+        <co-ordinator-method>add</co-ordinator-method>
+        <co-ordinator-node-ip>192.168.1.76</co-ordinator-node-ip>
+        <co-ordinator-node-name>Anurag</co-ordinator-node-name>
+        <co-ordinator-node-port>5000</co-ordinator-node-port>
+    </co-ordinator>
+</tds>
